@@ -1,0 +1,79 @@
+{
+  "resources": [
+    {
+      "name": "Cattaraugus County Campus Library",
+      "aliases": [
+        "library",
+        "campus library",
+        "olean library",
+        "cattaraugus library",
+        "learning commons library"
+      ],
+      "location": "Learning Commons, Library & Liberal Arts Center (LLAC), 312 North Barry St., Olean, NY 14760",
+      "hours": "Current hours vary by semester. The official JCC library page lists the current day's hours; check the official page before visiting.",
+      "phone": "716.376.7517",
+      "email": "Not listed on the official library contact page",
+      "website": "https://www.sunyjcc.edu/support/learning-commons/library",
+      "description": "The Cattaraugus County Campus Library provides library and reference services. JCC also offers 24/7 live chat with a reference librarian.",
+      "verified_by": "SUNY Jamestown Community College official website",
+      "last_verified": "2026-09-22"
+    },
+    {
+      "name": "Learning Center",
+      "aliases": [
+        "tutoring",
+        "tutoring center",
+        "learning center",
+        "academic support",
+        "essay help",
+        "study help"
+      ],
+      "location": "LLAC Floor 1, Learning Commons, Cattaraugus County Campus, Olean",
+      "hours": "Hours follow the Cattaraugus County Campus Learning Commons schedule; check the official JCC site for current semester hours.",
+      "phone": "716.376.7517",
+      "email": "Not listed on the official Learning Center page",
+      "website": "https://www.sunyjcc.edu/support/learning-commons/learning-center",
+      "description": "Provides one-on-one peer tutoring, study groups, study-skills support, workshops, and Brightspace/online-learning help.",
+      "verified_by": "SUNY Jamestown Community College official website",
+      "last_verified": "2026-09-22"
+    },
+    {
+      "name": "Academic Advising / Success Center",
+      "aliases": [
+        "advising",
+        "academic advising",
+        "advisor",
+        "success center",
+        "success navigator",
+        "course advising"
+      ],
+      "location": "COLL Floor 1, College Center, Cattaraugus County Campus, Olean",
+      "hours": "Campus public hours are Monday-Friday, 9 a.m.-5 p.m. August through May; individual service availability may vary.",
+      "phone": "716.376.7508",
+      "email": "SuccessCenter@sunyjcc.edu",
+      "website": "https://www.sunyjcc.edu/support/success-center",
+      "description": "Helps students with academic advisement, educational planning, career pathway development, transfer planning, and personal support.",
+      "verified_by": "SUNY Jamestown Community College official website",
+      "last_verified": "2026-09-22"
+    },
+    {
+      "name": "Financial Aid & Billing",
+      "aliases": [
+        "financial aid",
+        "financial aid office",
+        "billing",
+        "fafsa",
+        "student bill",
+        "tuition"
+      ],
+      "location": "COLL Floor 1, College Center, Cattaraugus County Campus, Olean",
+      "hours": "Campus public hours are Monday-Friday, 9 a.m.-5 p.m. August through May; individual service availability may vary.",
+      "phone": "716.338.1009",
+      "email": "FinancialAid@sunyjcc.edu",
+      "website": "https://www.sunyjcc.edu/support/financial-aid-billing",
+      "description": "Helps students understand bills, financial aid, FAFSA-related requirements, scholarships, payments, and certificate-of-residence requirements.",
+      "verified_by": "SUNY Jamestown Community College official website",
+      "last_verified": "2026-09-22"
+    }
+  ]
+}
