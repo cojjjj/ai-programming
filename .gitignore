@@ -8,3 +8,7 @@ venv/
 .vscode/
 .idea/
 *.db
+
+# Keep Streamlit credentials out of version control
+.streamlit/secrets.toml
+**/.streamlit/secrets.toml
