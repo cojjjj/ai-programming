@@ -1,4 +1,4 @@
-"""Streamlit interface for the Lab 2 campus resource agent."""
+# Lab 4 - Auto-redeployment verification
 import asyncio
 import os
 import re
