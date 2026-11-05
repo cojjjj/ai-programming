@@ -5,19 +5,19 @@ from agent import get_campus_resource_info
 def test_library_lookup():
     result = get_campus_resource_info("library")
     assert result["status"] == "success"
-    assert result["name"] == "Library"
+    assert result["name"] == "Cattaraugus County Campus Library"
 
 
 def test_tutoring_alias():
     result = get_campus_resource_info("tutoring")
     assert result["status"] == "success"
-    assert result["name"] == "Tutoring Center"
+    assert result["name"] == "Learning Center"
 
 
 def test_case_insensitive():
     result = get_campus_resource_info("LIBRARY")
     assert result["status"] == "success"
-    assert result["name"] == "Library"
+    assert result["name"] == "Cattaraugus County Campus Library"
 
 
 def test_resource_not_found():
